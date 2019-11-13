@@ -1,2 +1,7 @@
-# Notes-For-Beyond-Feelings-
-我将会在这里记录阅读英文原版《Beyond Feelings》后的笔记，每一章将会有个文件夹
+# 目录
+## The willpower instinct
+## Beyond Feelings
+正在阅读中
+## 财富自由之路
+正在阅读中(利用上下班地铁上的时间)
+
