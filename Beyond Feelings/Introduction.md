@@ -1,4 +1,4 @@
-###                      Beyond Feelings
+###Beyond Feelings
 
 - [Introduction](https://mp.weixin.qq.com/s?__biz=MzA4OTY2NzAxMQ==&mid=2650406828&idx=2&sn=e96d3d0fc8d120949d542f1ebb375dec&scene=21#wechat_redirect)
 - Part One: The Context
