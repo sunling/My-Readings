@@ -11,7 +11,7 @@
   - **Chapter 2 What Is Critical Thinking?**
 
   - - [Mind, Brain, or Both？](https://mp.weixin.qq.com/s/XHGlpUt6phMZfjq4xS2FUw)
-    - **Critical Thinking Defined**
+    - **[Critical Thinking Defined](https://mp.weixin.qq.com/s/tF9a1QG2OwDu889Vv9aVlw)**
     - `Characteristics of Critical Thinkers`
     - The Role of Intuition
     - Critical Thinking and Writing
