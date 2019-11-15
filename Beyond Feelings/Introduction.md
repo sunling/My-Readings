@@ -12,7 +12,7 @@
 
   - - [Mind, Brain, or Both？](https://mp.weixin.qq.com/s/XHGlpUt6phMZfjq4xS2FUw)
     - **Critical Thinking Defined**
-    - Characteristics of Critical Thinkers
+    - `Characteristics of Critical Thinkers`
     - The Role of Intuition
     - Critical Thinking and Writing
     - Critical Thinking and Discussion
