@@ -14,9 +14,9 @@
     - 2.4 What is intuition？
     - 2.5 Basic Activities in Critical Thinking
   
-    - **`2.6 Critical Thinking and Writing`**
-    - **`2.7 Critical Thinking and Discussion`**
-    -  2.8 Avoiding Plagiarism
+    - 2.6 Critical Thinking and Writing
+    - 2.7 Critical Thinking and Discussion
+    -  **2.8 `Avoiding Plagiarism`**
   
   - Chapter N......
   
@@ -24,3 +24,20 @@
 
 - Part Three: The Strategy
 
+
+
+Whenever possible, prepare in advance.
+
+Set reasonable expectations.
+
+Leave egotism and personal agendas at the door.
+
+Contribute but don’t dominate.
+
+Avoid distracting speech mannerisms.
+
+Listen actively.
+
+Judge ideas responsibly.
+
+Resist the urge to shout or interrupt.
