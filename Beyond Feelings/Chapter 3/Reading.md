@@ -10,6 +10,7 @@
     - Where Does It All Begin?
     - Imperfect Perception
     - `Imperfect Memory`
+    - `Deficient Information`
     - `Even the Wisest Can Err`
     - Truth Is Discovered, Not Created
     - Understanding Cause and Effect10
@@ -22,5 +23,5 @@
 
 
 
-`ok`
+
 
