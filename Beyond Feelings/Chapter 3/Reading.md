@@ -9,11 +9,11 @@
   - **Chapter 3 What Is Truth?**
     - Where Does It All Begin?
     - Imperfect Perception
-    - `Imperfect Memory`
-    - `Deficient Information`
-    - `Even the Wisest Can Err`
-    - Truth Is Discovered, Not Created
-    - Understanding Cause and Effect10
+    - Imperfect Memory
+    - Deficient Information
+    - Even the Wisest Can Err
+    - `Truth Is Discovered, Not Created`
+    - Understanding Cause and Effect 
   - Chapter 4 What Does It Mean to Know?
   - Chapter 5-7 .....
 
