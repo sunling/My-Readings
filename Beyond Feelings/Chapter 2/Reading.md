@@ -10,14 +10,14 @@
   
     - 2.1 Mind, Brain, or Both？
     - 2.2 Critical Thinking Defined
-  - 2.3 Characteristics of Critical Thinkers
+    - 2.3 Characteristics of Critical Thinkers
     - 2.4 What is intuition？
     - 2.5 Basic Activities in Critical Thinking
-  
+    
     - 2.6 Critical Thinking and Writing
     - 2.7 Critical Thinking and Discussion
-    -  **2.8 `Avoiding Plagiarism`**
-  
+    - **2.8 `Avoiding Plagiarism`**
+    
   - Chapter N......
   
 - Part Two: The Pitfalls
