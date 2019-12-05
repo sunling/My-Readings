@@ -1,0 +1,10 @@
+
+.sync/*
+.z_sync_configs.data
+**/.Archive
+sync_delta.json
+configs/sorts.json
+.auto_links.json
+.me_configs.data
+.md_configs.data
+.markeditor/*
