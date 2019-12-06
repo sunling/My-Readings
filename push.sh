@@ -1,8 +1,5 @@
 
 #!/bin/sh
 
-cd /Users/lingsun/MyRepos/Readings/
-git add .
-git commit -m 'auto commit - J'
-git push origin master
+cd /Users/lingsun/MyRepos/Readings/ &&  git add -A && git commit -am "update" && git push origin master
 
