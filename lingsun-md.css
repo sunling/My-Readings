@@ -24,8 +24,8 @@ body {
 .output_wrapper {
     font-size: 15px;
     color: #34495e;
-    line-height: 1.9; 
-    font-weight:500;
+    line-height: 1.9;
+    font-weight: 500;
     text-align: left;
     word-spacing: 1px;
     /*更改默认的词间距*/
@@ -51,6 +51,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
     margin: 1.5em 0px;
     font-weight: bold;
+    color: #000;
 }
 
 h1 {
@@ -87,7 +88,7 @@ ul, ol {
 /*无序列表*/
 
 ul {
-    list-style-type: disc; 
+    list-style-type: disc;
 }
 
 /*有序列表*/
@@ -96,7 +97,7 @@ ol {
     list-style-type: decimal;
 }
 
-li { 
+li {
     margin-bottom: 0.5em;
 }
 
@@ -131,11 +132,11 @@ pre code {
 
 blockquote {
     display: block;
-    padding: 15px 1rem; 
+    padding: 15px 1rem;
     margin: 1em 0;
     color: #777;
     border-left: 8px solid #42b983;
-    background: rgba(66, 185, 131, .1); 
+    background: rgba(66, 185, 131, .1);
     overflow: auto;
     -ms-overflow-style: touch;
     word-wrap: normal;
@@ -144,11 +145,10 @@ blockquote {
 
 blockquote p {
     margin: 0px;
-
 }
-blockquote br {
-    margin-bottom : 1px;
 
+blockquote br {
+    margin-bottom: 1px;
 }
 
 /*超链接*/
@@ -171,8 +171,8 @@ strong {
 
 em {
     font-style: italic;
-font-weight: 480;
-color:black
+    color: #000;
+    font-family: Georgia;
 }
 
 /*删除线*/
@@ -364,5 +364,3 @@ a[href^="#"] sup {
     /*每级目录的缩进*/
     margin-left: 25px;
 }
-
-
