@@ -1,2 +1,2 @@
-cd /Users/sunling/MyRepos/Readings
-git pull origin master
+
+/usr/local/bin/git git pull origin master

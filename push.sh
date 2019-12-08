@@ -1,5 +1,5 @@
-
-#!/bin/sh
-
-cd /Users/sunling/MyRepos/Readings/ &&  git add -A && git commit -am "update" && git push origin master
+/usr/bin/cd /Users/sunling/MyRepos/Readings
+/usr/local/bin/git add -A 
+/usr/local/bin/git commit -am "update"
+/usr/local/bin/git push origin master
 
