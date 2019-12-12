@@ -2,10 +2,12 @@
 ## 0-The willpower instinct
 已完成，每一章待更新上传
 
- [怎么才能更好地集中注意力](/0-The Willpower Instinct/怎么才能更好地集中注意力.md) 
+全书总结，公众号文章链接：
+[怎么才能更好地集中注意力呢？](https://mp.weixin.qq.com/s/d1Ik3Nv6f8tM2WP9oHY-hg)
 
-1.  [怎么才能更好地集中注意力 ](/0-The Willpower Instinct/怎么才能更好地集中注意力.md)
-2. 
+Markdown文件：
+ [怎么才能更好地集中注意力](/0-TheWillpowerInstinct/怎么才能更好地集中注意力.md) 
+ 
 ## 1-Beyond Feelings
 
 ### 00 简介
