@@ -1,6 +1,7 @@
 # 目录
 ## 0-The willpower instinct
 已完成，每一章待更新上传
+
  [全书总结](/0-The Willpower Instinct/怎么才能更好地集中注意力.md)
 
 ## 1-Beyond Feelings
