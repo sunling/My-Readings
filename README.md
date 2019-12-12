@@ -2,7 +2,7 @@
 ## 0-The willpower instinct
 已完成，每一章待更新上传
 
- [全书总结](/0-The Willpower Instinct/怎么才能更好地集中注意力.md)
+ [怎么才能更好地集中注意力](/0-The Willpower Instinct/怎么才能更好地集中注意力.md) 
 
 ## 1-Beyond Feelings
 
@@ -26,15 +26,9 @@
   - Chapter 2 What Is Critical Thinking?
   - Chapter 3 What Is Truth?
   - Chapter 4 What Does It Mean to Know?
-  - **Chapter 5 How Good Are Your Opinions?**
-      - Opinions Can Be Mistaken
-      - Opinions on Moral Issues
-      - Even Experts Can Be Wrong
-      - Kinds of Errors
-      - **Informed Versus Uninformed Opinion**
-      - **Forming Opinions Responsibly**
+  - Chapter 5 How Good Are Your Opinions?
   - Chapter 6 What Is Evidence?
-  - Chapter 7 What Is Argument?
+  - **Chapter 7 What Is Argument?**
 - Part Two: The Pitfalls
 - Part Three: The Strategy
 
