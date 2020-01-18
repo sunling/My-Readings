@@ -12,7 +12,7 @@
 
 **3. 第三部分**：“**战略**”，将会帮助我们去获得一些解决问题的技能
 
-[学习笔记：独立思考能力养成之路](https://mp.weixin.qq.com/s/ggoZ1s8-ObWIpt89m0TIeQ)
+全书笔记： [学习笔记：独立思考能力养成之路](https://mp.weixin.qq.com/s/ggoZ1s8-ObWIpt89m0TIeQ)
 
 ## 2 - 财富自由之路 
 整理的文章如下：
