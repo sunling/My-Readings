@@ -24,7 +24,7 @@
 ## 3- Flow: The Psychology of Optimal Experience
 1 Happiness Revisited
 2 The Anatomy of Consciousness
-3 Enjoyment and the Quality of Lif
+3 Enjoyment and the Quality of Life
 4 The Conditions of Flow
 5 The Body in Flow
 6 The Flow of Thought
