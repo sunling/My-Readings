@@ -1,7 +1,11 @@
-本书的目标和中心思想
-每一章讲了什么
-人面临了哪些困境
-呈现的价值观
+
+**1 Happiness Revisited**
+* Introduction
+* **Overview**
+* The Roots of Discontent
+* The Shields of Culture
+* Reclaiming Experience
+* Paths of Liberation
 
 Although many articles and books on flow have been written for the specialist, this is the first time that the research on optimal experience is being presented to the general reader and its implications for individual lives discussed. But what follows is not going to be a “how-to” book. There are literally thousands of such volumes in print or on the remainder shelves of book-stores, explaining how to get rich, powerful, loved, or slim. Like cookbooks, they tell you how to accomplish a specific, limited goal on which few people actually follow through. Yet even if their advice were to work, what would be the result afterward in the unlikely event that one did turn into a slim, well-loved, powerful millionaire? Usually what happens is that the person finds himself back at square one, with a new list of wishes, just as dissatisfied as before. What would really satisfy people is not getting slim or rich, but feeling good about their lives. In the quest for happiness, partial solutions don’t work. 
 

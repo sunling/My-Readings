@@ -1,12 +1,12 @@
-#Flow 心流
-**The Psychology of Optimal Experience** 
-**最优体验心理学**
-*--Mihaly Csikszentmihalyi*
+### 英文书精读整理系列
+**书名**：Flow 心流 
+**副标题**: The Psychology of Optimal Experience  最优体验心理学
+**作者**：*Mihaly Csikszentmihalyi*
 
-## TOC 本书目录
- **Preface 前言**
-Chapter 1 Happiness Revisited  
-Chapter 2 The Anatomy of Consciousness 
+### 本书目录
+ Preface 前言
+Chapter 1 Happiness Revisited
+**Chapter 2 The Anatomy of Consciousness** 
 Chapter 3 Enjoyment and the Quality of Life 
 Chapter 4 The Conditions of Flow 
 Chapter 5 The Body in Flow
