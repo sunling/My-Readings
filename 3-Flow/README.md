@@ -14,7 +14,7 @@
 * Chapter 7 Work as Flow 
 * Chapter 8 Enjoying Solitude and Other People
 * Chapter 9 Cheating Chaos
-* **Chapter 10 The Making of Meaning** 
+* Chapter 10 The Making of Meaning
  
 
  
